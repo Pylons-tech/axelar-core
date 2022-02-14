@@ -1,4 +1,4 @@
-module github.com/axelarnetwork/axelar-core
+module github.com/pylons-tech/axelar-core
 
 go 1.17
 
